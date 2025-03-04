@@ -1,0 +1,14 @@
+package main.marveldcmonopolyproject.models.collections;
+
+public enum ECollection {
+    COLLECTION_BROWN,
+    COLLECTION_LBLUE,
+    COLLECTION_PINK,
+    COLLECTION_ORANGE,
+    COLLECTION_RED,
+    COLLECTION_YELLOW,
+    COLLECTION_GREEN,
+    COLLECTION_DBLUE,
+    COLLECTION_STATION,
+    COLLECTION_UTILITY
+}
