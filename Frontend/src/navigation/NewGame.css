@@ -1,0 +1,18 @@
+.player-info-div:nth-child(odd) {
+    background: gainsboro;
+}
+
+.hidden-input {
+    position: absolute;
+    left: -9999px;
+}
+
+input[type=radio]:checked+label>img {
+    border: 1px solid #fff;
+    box-shadow: 0 0 3px 3px red;
+}
+
+.character-image {
+    max-width: 100px;
+    height: auto;
+}

@@ -1,0 +1,21 @@
+#App-div {
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#App-content {
+    margin-top: 20px;
+}
+
+#App-Navbar {
+    background-color: gainsboro;
+}
+
+#App-Navbar-brand {
+    height: 10vmin;
+}
+
+.App-Nav-Link {
+    border: solid 2px black;
+}
